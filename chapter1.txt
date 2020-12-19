@@ -2,7 +2,14 @@ This is a new file. I will put my chapter 1 text in it
 This work is done by Yasir
 This is another line by Yasir
 This is another line by Yasir
-
 PARA1
 
 This is para1 as asked by Teacher
+
+PARA2:
+
+This is para2 as asked by the teacher
+
+
+
+
