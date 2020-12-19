@@ -10,6 +10,12 @@ PARA2:
 
 This is para2 as asked by the teacher
 
+PARA3:
 
+This is para3 as asked by the teacher.
+
+def is_pandigital():
+  pass
+  
 
 
